@@ -1,0 +1,2 @@
+El arhivo llamado .gitignore se usara cuando encuentre el archivo en respoitorio. Se le tiene
+que hacer un commit al gitignore para subirlo al repositorio

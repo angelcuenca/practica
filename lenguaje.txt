@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main ()
+{
+	cout << "Angel Emmanuel Sanchez Cuenca" << endl;
+
+	return 0;
+}
