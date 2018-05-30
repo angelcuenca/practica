@@ -1,2 +1,1 @@
-El arhivo llamado .gitignore se usara cuando encuentre el archivo en respoitorio. Se le tiene
-que hacer un commit al gitignore para subirlo al repositorio
+El arhivo llamado .gitignore sirva para indicar que archivos seran omitidos al momento de darle commit.
